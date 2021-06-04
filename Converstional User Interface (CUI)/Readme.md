@@ -2,7 +2,7 @@
 
 **Currently in Alpha Phase**
 
-A user interface that parallels human conversation. Utilizing Natural Language Processing & Artificial Intelligence.
+A user interface that parallels human conversation. Utilizing Natural Language Processing & Artificial Intelligence. Built to provide real-time statistical analysis for the datasets featured in this project.
 
 ## Roadmap
 
