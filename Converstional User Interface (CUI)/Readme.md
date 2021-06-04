@@ -14,7 +14,7 @@ Beta Phase - To Be Anounced
 
 **Step 1** Say "Hello"
 
-**Step 2** Answer "Yes" or "No" 😈
+**Step 2** Answer "Yes' or "No" 😈
 
 **Step 3**  Ask Your Question
 
