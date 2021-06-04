@@ -14,9 +14,9 @@ Beta Phase - To Be Anounced
 
 **Step 1** Say "Hello"
 
-**Step 2** Say "Yes" or "No" 😈
+**Step 2** Answer "Yes" or "No" 😈
 
-**Step 3**  ask your question
+**Step 3**  Ask Your Question
 
 ## Demo
 ![Alpha CUI](Alpha_CUI.gif)
