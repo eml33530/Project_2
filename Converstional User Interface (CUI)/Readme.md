@@ -18,6 +18,10 @@ Beta Phase - To Be Anounced
 
 **Step 3**  Ask Your Question
 
+## Current Feature
+
+- Greeting Recognition - This friendly bot response to pleasant greetings!
+
 ## Demo
 ![Alpha CUI](Alpha_CUI.gif)
 
