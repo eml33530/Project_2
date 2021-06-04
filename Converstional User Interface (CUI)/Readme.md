@@ -6,7 +6,7 @@ A user interface that parallels human conversation. Utilizing Natural Language P
 
 ## Roadmap
 
-Alpha Phase - Starts May 2021
+Alpha Phase - Started May 2021 ***in progress***
 
 Beta Phase - To Be Anounced
 
