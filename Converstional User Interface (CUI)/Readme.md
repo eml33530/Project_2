@@ -2,7 +2,7 @@
 
 **Currently in Alpha Phase**
 
-A user interface that parallels human conversation. Utilizing Natural Language Processing & Artificial Intelligence. Built to provide real-time statistical analysis for the datasets featured in this project.
+A user interface that parallels human conversation. Utilizing Natural Language Processing & Artificial Intelligence. Built to provide real-time statistical analysis for the [datasets](https://github.com/eml33530/Project_2/tree/main/Datasets) featured in this project.
 
 ## Roadmap
 
