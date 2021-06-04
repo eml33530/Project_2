@@ -18,5 +18,7 @@ Beta Phase - To Be Anounced
 
 **Step 3**  ask your question
 
+## Demo
+![Alpha CUI](Alpha_CUI.gif)
 
 #### Contact: [Orlando K. Fuller Jr](https://github.com/OrlandoFuller)
