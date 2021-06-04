@@ -24,6 +24,7 @@ Beta Phase - To Be Anounced
 - Top-Five TV Series - Setup you month by finding the top-five best TV Series!
 - Best Recommendation - "Pick the year & I'll give you the best TV Series!" ~ a friendly bot
 - Reviewer - Powered by IMDb, this bot provides rapid IMDb results to assist in your next binge!
+- Text & Voice based logic - You choose to speak or type!
 
 ## Demo
 ![Alpha CUI](Alpha_CUI.gif)
