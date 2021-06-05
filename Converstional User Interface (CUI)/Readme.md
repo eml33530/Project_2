@@ -18,7 +18,7 @@ Beta Phase - To Be Anounced
 
 **Step 3**  Ask Your Question
 
-## Current Feature
+## Current Features
 
 - Greeting Recognition - This friendly bot response to pleasant greetings!
 - Top-Five TV Series - Setup you month by finding the top-five best TV Series!
