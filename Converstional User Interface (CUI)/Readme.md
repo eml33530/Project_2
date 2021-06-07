@@ -20,8 +20,8 @@ Beta Phase - To Be Anounced
 
 ## Current Features
 
-- Greeting Recognition - This friendly bot response to pleasant greetings!
-- Top-Five TV Series - Setup you month by finding the top-five best TV Series!
+- Greeting Recognition - This friendly bot responds to pleasant greetings!
+- Top-Five TV Series - Setup your month by finding the top-five best TV Series!
 - Best Recommendation - "Pick the year & I'll give you the best TV Series!" ~ a friendly bot
 - Reviewer - Powered by IMDb, this bot provides rapid IMDb results to assist in your next binge!
 - Text & Voice based logic - You choose to speak or type!
