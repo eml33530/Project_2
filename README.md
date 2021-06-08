@@ -11,6 +11,6 @@ Please see Tables of Contents Below:
 1. [Resources](https://github.com/eml33530/Project_2/tree/main/Resources)- The datasets that were used to analyze Netflix, ratings and specific TV shows
 2. [Images](https://github.com/eml33530/Project_2/tree/main/Images)- A compilation of the visualizations created to interpret results
 3. [Models](https://github.com/eml33530/Project_2/tree/main/Models) - Contains the models created by the team 
-4. [AWS Predictor] (https://github.com/eml33530/Project_2/tree/main/Converstional%20User%20Interface%20(CUI)) - AWS model suggesting what movie to watch next
-5. [Presentation] (https://github.com/eml33530/Project_2/tree/main/Presentation)- Slide deck presenting final conclusions
+4. [AWS Predictor](https://github.com/eml33530/Project_2/tree/main/Converstional%20User%20Interface%20(CUI)) - AWS model suggesting what movie to watch next
+5. [Presentation](https://github.com/eml33530/Project_2/tree/main/Presentation)- Slide deck presenting final conclusions
 
