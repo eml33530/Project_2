@@ -6,7 +6,7 @@ Ever wonder why you kept watching that show that you weren't all that interested
 - If you as the audience is more likely to skip around between episodes if your ride or die character has a special storyline
 - Prediction of the next big binge on Netflix
 
-Please see Tables of Contents Below:
+Please see Tables of Contents below:
 
 1. [Resources](https://github.com/eml33530/Project_2/tree/main/Resources)- The datasets that were used to analyze Netflix, ratings and specific TV shows
 2. [Images](https://github.com/eml33530/Project_2/tree/main/Images)- A compilation of the visualizations created to interpret results
